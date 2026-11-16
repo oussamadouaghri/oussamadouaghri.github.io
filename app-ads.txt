@@ -6,3 +6,5 @@ facebook.com, 1415319813360399, DIRECT, c3e20eee3f780d68
 facebook.com, 1415319813360399, RESELLER, c3e20eee3f780d68
 facebook.com, 3215243128662846, DIRECT, c3e20eee3f780d68
 facebook.com, 3215243128662846, RESELLER, c3e20eee3f780d68
+unityads.unity3d.com, 6205271, DIRECT
+unityads.unity3d.com, 6205271, RESELLER
